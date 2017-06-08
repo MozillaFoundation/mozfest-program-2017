@@ -9,6 +9,23 @@ Anyone can view these issues. If you would like to contribute to the discussion 
 
 Once you have an account, simply write your comment or question in the text box at the bottom of the issue and hit the green 'comment' button.
 
+## Github as a curation tool
+
+Github Issues are submitted sessions from the Call for Proposals form on the MozFest website.
+
+Each space is represented as a Github milestone. Each milestone includes description of its respective space. 
+The Secondary Space is seen as a label such as: [Secondary Space] Web Literacy
+
+We use Labels as tools to sort and review sessions. You will see labels indicating session languages, if a travel stipend has been requested and also to help us format sessions.
+
+In 2017 we are catagorising sessions under 3 headings. We are testing these categories as ways to format sessions but also as tool for the festival attendees to get greater clarity on the type of learning and interaction they will find from a session under this category at the festival. 
+We have 3 categories:
+
+- _Shed_, for hands-on making, hacking and prototyping. Sessions in the Shed require attendees to create and build code, objects or crafts
+- _Learning Forum_, for listening, learning and discussing individual topics. Sessions here develop and implement ideas for improvement, exchange or review.
+- _Gallery_, contains interactive exhibits, installations, games, stalls designed for 1:1 self driven experience and emergent activities. Often these experiences or activities are not scheduled time blocks but take place over the day or weekend allowing access and interaction at any time. The Gallery can provide context for upcoming sessions, and finished prototypes from sessions for that relevant Space.
+
+
 We are here to help in case you get stuck or need help at anytime.  Don't worry -- you can't break anything! 
 
 ## Important note
