@@ -30,7 +30,7 @@ We are here to help in case you get stuck or need help at anytime.  Don't worry 
 
 ## Important note
 
-All session submissions must come through the official [Call for Proposals form](https://mozillafestival.org/proposals) on the MozFest website. Do *not* manually a new ticket here as it will not integrate with the rest of our systems. 
+All session submissions must come through the official [Call for Proposals form](https://mozillafestival.org/proposals) on the MozFest website. Do *not* manually add a new ticket here as it will not integrate with the rest of our systems. 
 
 ## Github Etiquette
 
