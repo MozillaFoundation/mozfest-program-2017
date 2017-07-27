@@ -41,6 +41,9 @@ Please be aware that many people are using Github for the first time, so be pati
 ## Participation Guidelines
 MozFest respects [Mozilla's community participation guidelines](https://www.mozilla.org/en-US/about/governance/policies/participation/), which cover our behaviour as participants, facilitators, space wranglers, staff, volunteers, vendors, and anyone else involved in making MozFest possible. Please report unnacceptable behaviour to festival@mozilla.org. 
 
+## Licensing
+MozFest session descriptions are owned by their respective submitters, but any content created by Mozilla is available under a [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) license. 
+
 ## Why we use Github Issues for MozFest
 
 This is our third year of using Github to manage, review and curate sessions for MozFest. This tool allows us to better collaborate and coordinate across the program, as well as provide a record for how the program came together. 
